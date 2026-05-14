@@ -1,0 +1,44 @@
+---
+title: "Resources"
+subtitle: "DATA 202: Statistically Measuring and Modeling Social Justice"
+---
+
+This page will contain resources to support you in our course.
+
+## Open data sources
+
+Educational opportunity data: [https://edopportunity.org/](https://edopportunity.org/){target="_blank"}
+
+Harvard dataverse: [https://dataverse.harvard.edu/dataverse/harvard](https://dataverse.harvard.edu/dataverse/harvard){target="_blank"}
+
+Kaggle datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets){target="_blank"}
+
+Topic-centric open data: [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets){target="_blank"}
+
+U.S. government data: [https://data.gov/](https://data.gov/){target="_blank"}
+
+World Bank open data: [https://data.worldbank.org/](https://data.worldbank.org/){target="_blank"}
+
+Open city data
+
+- Chicago Open Data: [https://data.cityofchicago.org/](https://data.cityofchicago.org/){target="_blank"} 
+- Dallas Open Data: [https://www.dallasopendata.com/](https://www.dallasopendata.com/){target="_blank"}
+- DC Open Data: [https://opendata.dc.gov/](https://opendata.dc.gov/){target="_blank"}
+- Houston Open Data: [https://data.houstontx.gov/](https://data.houstontx.gov/){target="_blank"}
+- LA Open Data: [https://data.lacity.org/](https://data.lacity.org/){target="_blank"}
+- Miami-Data County Open Data: [https://gis-mdc.opendata.arcgis.com/](https://gis-mdc.opendata.arcgis.com/){target="_blank"}
+- New York Open Data: [https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/){target="_blank"}
+- Philadelphia Open Data: [https://opendataphilly.org/](https://opendataphilly.org/){target="_blank"}
+- St. Louis Open Data: [https://www.stlouis-mo.gov/data/index.cfm](https://www.stlouis-mo.gov/data/index.cfm){target="_blank"}
+
+## The Organic Chemistry Tutor's Channel on YouTube
+
+Despite the profile's title, this channel offers a wealth of resources spanning mathematics and science. The resources offer detailed examples and explanations that you can follow along with as you watch the video. The below series of video review basic statistics.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZo4xyJXCak?si=DD8n5GYrWfTs4rAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+</center>

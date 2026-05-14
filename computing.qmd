@@ -1,0 +1,54 @@
+## Computing
+
+## Lab 0: Downloading R and RStudio.
+
+For Lab #0 you will download two software programs to your computer.
+
+Please watch the below video to help you download R and RStudio.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUe_iD7RJvo?si=q0rb1lzb2Ten8_ZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+</center>
+
+Watch [this](https://www.youtube.com/watch?v=pUe_iD7RJvo&t=93s){target="_blank"} video to complete the steps below:
+
+#### - Step 1: Navigate to <https://posit.co>
+
+#### - Step 2: Click on the Download RStudio link
+
+#### - Step 3: Install base R (Install R)
+
+#### - Step 4: Install the RStudio IDE (Install RStudio)
+
+Once you have completed your downloads, check to see that you can open RStudio (not R).
+
+We'll pick up here in class next week.
+
+### **Next up**: Preparing for your annotated bibliography
+
+After completing Lab 0, you will use OpenAlex to support your literature identification process. OpenAlex is a comprehensive open catalog of the global research system that can help you find relevant publications for your research. 
+
+Once you are set up in R, try working with the code below:
+
+```{r, eval=F}
+library(openalexR)
+
+# Search for works related to your social justice topic
+works_search <- oa_fetch(
+  entity = "works",
+  title.search = c("keyword1", "your specific topic"),
+  from_publication_date = "2020-01-01",
+  options = list(sort = "cited_by_count:desc"),
+  verbose = TRUE
+)
+
+# Display the top results
+works_search |>
+  head(10) |>
+  show_works() |>
+  knitr::kable()
+```

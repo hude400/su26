@@ -1,0 +1,35 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Intermediate Statistics",
+    "section": "",
+    "text": "This site is for HUDE 400 - Summer I (2026).\nMeeting Times: Tu/Th, 5:10pm - 7:40pm\nLocation: Miner Building, School of Education, Rm. 218\nInstructor: Nathan Alexander, Ph.D.\nWelcome to Intermediate Statistics with a focus on human development and psycho-educational studies. More broadly, this course offers a comprehensive exploration of computational and statistical methods applied in education and social science research.",
+    "crumbs": [
+      "HUDE 400",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome-to-hude-400-intermediate-statistics",
+    "href": "index.html#welcome-to-hude-400-intermediate-statistics",
+    "title": "Intermediate Statistics",
+    "section": "",
+    "text": "This site is for HUDE 400 - Summer I (2026).\nMeeting Times: Tu/Th, 5:10pm - 7:40pm\nLocation: Miner Building, School of Education, Rm. 218\nInstructor: Nathan Alexander, Ph.D.\nWelcome to Intermediate Statistics with a focus on human development and psycho-educational studies. More broadly, this course offers a comprehensive exploration of computational and statistical methods applied in education and social science research.",
+    "crumbs": [
+      "HUDE 400",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Intermediate Statistics",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\nWeek\nDay\nTopic\nNotes\nAssignments\n\n\n\n\n1\nTuesday\nCourse Introduction and T-Tests\nIntroductions, syllabus, statistical foundations, T-Tests\nInstall R/RStudio; Complete T-Test Lab\n\n\n\nThursday\nOne-Way ANOVA\nComparing multiple groups using One-Way ANOVA\nComplete One-Way ANOVA Lab\n\n\n2\nTuesday\nFactorial ANOVA\nUnderstanding factorial designs and interaction effects\nComplete Factorial ANOVA Lab\n\n\n\nThursday\nRepeated Measures ANOVA\nWithin-subjects designs and repeated observations\nComplete Repeated Measures ANOVA Lab\n\n\n3\nTuesday\nMixed ANOVA\nCombining between- and within-subjects factors in Mixed ANOVA\nComplete Mixed ANOVA Lab\n\n\n\nThursday\nChi-Square\nCategorical data analysis using Chi-Square tests\nComplete Chi-Square Lab\n\n\n4\nTuesday\nCorrelation and Regression\nRelationships between continuous variables and regression modeling\nComplete Regression Lab\n\n\n\nThursday\nANCOVA and Applications\nUsing covariates in group comparisons and applied statistical analysis\nApplication Assignment Due\n\n\n5\nTuesday\nProject Workshop and Presentations\nStudent project development, applications, and presentations\nFinalize and Present Research Project\n\n\n\nThursday\nFinal Exam Review and Final Exam\nComprehensive review of all statistical methods and cumulative final exam\nFinal Exam",
+    "crumbs": [
+      "HUDE 400",
+      "Schedule"
+    ]
+  }
+]

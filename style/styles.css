@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family: "Atkinson Hyperlegible", sans-serif;
+$link-color: #5d6d74;
+$hover-color: lighten($link-color, 40%);
+
+/*-- scss:rules --*/
+
+a{
+  color: $link-color;
+  text-decoration: none;
+  
+  &:hover{
+    color: $hover-color;
+    border-bottom: 1px solid $hover-color;
+  }
+  
+}
+
+.project {
+  padding: 1em;
+  border: 1pt dotted #5d6d74;
+  margin-bottom: 15px;
+}
+
+div.sidebar-item-container .active, div.sidebar-item-container .show>.nav-link, div.sidebar-item-container .sidebar-link>code {
+  font-weight: bold;
+}
+
+
+
+/* Foresty Theme with Hunter Green and Blue */
+
+body {
+  --bs-primary: #355e3b;  /* Hunter Green */
+  --bs-secondary: #2a4d69; /* Deep Blue */
+  background-color: #f3f6f4; /* Light neutral background for readability */
+  color: #2e2e2e; /* Dark gray text for contrast */
+}
+
+a,
+a:hover,
+a:focus {
+  color: var(--bs-primary);
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--bs-primary);
+}
+
+.navbar,
+.tocify-wrapper,
+.tocify-header {
+  background-color: var(--bs-secondary);
+  color: white;
+}
+
+.tocify-item-active {
+  background-color: var(--bs-primary);
+  color: white;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #2d4f33;
+  border-color: #2d4f33;
+}

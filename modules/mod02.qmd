@@ -1,0 +1,6 @@
+---
+title: "mod02"
+format: html
+---
+
+You can access data here.

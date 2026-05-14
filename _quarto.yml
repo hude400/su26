@@ -1,0 +1,78 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Intermediate Statistics"
+  description: "Homepage for HUDE 400"
+  site-url: "https://github.com/hu-data-000/"
+
+  open-graph: true
+  
+  page-footer:
+    right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2026, Nathan Alexander"
+    #background: "#2e4d34"
+
+  sidebar:
+    #background: "#2e4d34"
+    logo: "img/dubois-loc.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: "https://github.com/hu-data-000/sp26"
+        text: "GitHub organization"
+      - icon: code-square
+        href: "https://canvas.howard.edu/courses/59441"
+        text: "Canvas site"
+    
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:  
+      - section: "HUDE 400"
+        contents:
+          - href: course-overview.qmd
+          - href: index.qmd
+            text: "Schedule"
+          - href: syllabus.qmd
+            text: "Syllabus"
+          - href: assignments.qmd
+          - href: computing.qmd
+      - section: "Modules"
+        contents:
+          - href: modules/mod00.qmd
+          - href: modules/mod01.qmd
+          - href: modules/mod02.qmd
+          - href: modules/mod03.qmd
+          - href: modules/mod04.qmd
+          - href: modules/mod05.qmd
+          
+      - section: "Data"
+        contents: 
+          - href: data/school.qmd
+          - href: data/district.qmd
+          - href: data/state.qmd
+          - href: data/hsls.qmd
+          - href: data/pisa22.qmd
+          - href: data/seda.qmd
+
+format:
+  html:
+    theme: cosmo
+    callout-appearance: simple
+    colorlinks: true
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    toc-depth: 2
+  revealjs:
+    slide-number: true
+    theme: simple
+  pptx:
+    reference-doc: style/my-styles.pptx
+
+execute:
+  echo: false

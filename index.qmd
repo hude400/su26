@@ -1,0 +1,29 @@
+
+## Welcome to HUDE 400: Intermediate Statistics
+
+This site is for HUDE 400 - Summer I (2026).
+
+Meeting Times: Tu/Th, 5:10pm - 7:40pm
+
+Location: Miner Building, School of Education, Rm. 218
+
+Instructor: Nathan Alexander, Ph.D.
+
+Welcome to **Intermediate Statistics** with a focus on human development and psycho-educational studies. More broadly, this course offers a comprehensive exploration of computational and statistical methods applied in education and social science research.
+
+## Schedule
+
+| Week | Day | Topic | Notes | Assignments |
+|-|-|--------|--------|------|
+| 1 | Tuesday | Course Introduction and T-Tests | Introductions, syllabus, statistical foundations, T-Tests | Install R/RStudio; Complete T-Test Lab |
+|  | Thursday | One-Way ANOVA | Comparing multiple groups using One-Way ANOVA | Complete One-Way ANOVA Lab |
+| 2 | Tuesday | Factorial ANOVA | Understanding factorial designs and interaction effects | Complete Factorial ANOVA Lab |
+|  | Thursday | Repeated Measures ANOVA | Within-subjects designs and repeated observations | Complete Repeated Measures ANOVA Lab |
+| 3 | Tuesday | Mixed ANOVA | Combining between- and within-subjects factors in Mixed ANOVA | Complete Mixed ANOVA Lab |
+|  | Thursday | Chi-Square | Categorical data analysis using Chi-Square tests | Complete Chi-Square Lab |
+| 4 | Tuesday | Correlation and Regression | Relationships between continuous variables and regression modeling | Complete Regression Lab |
+|  | Thursday | ANCOVA and Applications | Using covariates in group comparisons and applied statistical analysis | Application Assignment Due |
+| 5 | Tuesday | Project Workshop and Presentations | Student project development, applications, and presentations | Finalize and Present Research Project |
+|  | Thursday | Final Exam Review and Final Exam | Comprehensive review of all statistical methods and cumulative final exam | Final Exam |
+
+

@@ -1,0 +1,14 @@
+---
+title: "school"
+format: html
+---
+
+```{r setup, include=F, message=F, warning=F}
+library(here)
+here::i_am("school.qmd")
+```
+
+
+
+You can load data from [here]("../../data/mod01_urban_institute_ed_data/educationdata.Rmd")
+

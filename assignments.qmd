@@ -1,0 +1,52 @@
+## Assignments
+
+This page contains three sections:
+
+-   Brief overview of <u>all</u> **course assignments**.
+
+-   Information about **lab 0** (ungraded).
+
+### **Overview of course assignments**
+
+Our course assignments will be split between reading and typing (code and analytic results).
+
+| Course component                   | Assignment  | Date(s)          |
+|------------------------------------|-------------|------------------|
+| **Part I: Statistics and society** | Lab #0      | Due: Tue Aug 26  |
+|                                    |             |                  |
+|                                    | Lab #1      | Due: Sun Sept 21 |
+| **Part II: Data and people**       |             |                  |
+|                                    | Lab #2      | Due: Sun Oct 12  |
+| **Part III: Data and policy**      |             |                  |
+|                                    | Lab #3      | Due: Tues Nov 18 |
+| **Part IV: Data in practice**      |             |                  |
+|                                    | Final paper | Due: Sun Nov 30  |
+|                                    |             |                  |
+
+### **Homework 0**
+
+Below are a few sample exercises of the types of problems we'll explore in class. This work is ungraded, and while there is no prerequisite for this course, these problems should serve as a review and a preview of content that we'll explore for the course. Please do not hesitate to reach out with questions.
+
+**Exercise 0.1**. If an individual's projected income is to be converted to a z-score, which of these z-scores would a "rational agent" prefer: -2.00, -1.00, 0, 1.00, or 2.00? What is a "rational agent"? Explain why the "rational agent" would prefer the z-score you selected? Cite any sources.
+
+**Exercise 0.2**. What is an integer? What is the sum of the first 100 positive integers? Explain your solution. Cite any sources. Bonus points (but definitely not required for our course): write a proof of the solution.
+
+**Exercise 0.3**. Have you ever heard of p-hacking? P-hacking is where a researcher conducts multiple tests and only reports the significant results from those tests. What are some main issues here?
+
+### **Lab 0**
+
+For your first lab, you will install two software programs on your local machine: the first is base R and the second is the RStudio Integrated Development Environment, or IDE. <u>Both programs are required</u>.
+
+::: {.callout-caution collapse="false"}
+## You must download both R and RStudio!
+
+In order to complete assignments, you must download base R and RStudio to your computer.
+:::
+
+RStudio is now called Posit. When you are searching online you will begin to see language differences.
+
+It can all get very confusing. In order to reduce confusion, I am requesting that you watch [this short tutorial](https://www.youtube.com/watch?v=pUe_iD7RJvo) so that we're all on the same page. I will discuss this more when we meet.
+
+### **Next up**: Computing
+
+On the next page, I will walk you through downloading the appropriate software for our work this term.

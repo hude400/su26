@@ -1,0 +1,9 @@
+## Syllabus
+
+[Download the PDF](files/syllabus.pdf)
+
+<iframe 
+  src="files/syllabus.pdf" 
+  width="100%" 
+  height="800px">
+</iframe>
